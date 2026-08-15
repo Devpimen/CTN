@@ -1,0 +1,69 @@
+{
+    "bd2": {
+        "ponderaciones": {
+            "parciales": {
+                "porcentaje": 32.0,
+                "notas": []
+            },
+            "semestral": {
+                "porcentaje": 32.0,
+                "notas": []
+            },
+            "actividades": {
+                "porcentaje": 8.0,
+                "notas": [
+                    80.0,
+                    100.0
+                ]
+            },
+            "laboratorios": {
+                "porcentaje": 17.0,
+                "notas": [
+                    84.0,
+                    97.0,
+                    100.0
+                ]
+            },
+            "charla": {
+                "porcentaje": 8.0,
+                "notas": []
+            },
+            "portafolio": {
+                "porcentaje": 3.0,
+                "notas": []
+            }
+        }
+    },
+    "mecanica": {
+        "ponderaciones": {
+            "parciales": {
+                "porcentaje": 33.0,
+                "notas": []
+            },
+            "actividades formativas": {
+                "porcentaje": 20.0,
+                "notas": [
+                    87.0,
+                    100.0,
+                    80.0
+                ]
+            },
+            "asistencia": {
+                "porcentaje": 2.0,
+                "notas": []
+            },
+            "portafolio": {
+                "porcentaje": 5.0,
+                "notas": []
+            },
+            "proyectos": {
+                "porcentaje": 10.0,
+                "notas": []
+            },
+            "semestral": {
+                "porcentaje": 30.0,
+                "notas": []
+            }
+        }
+    }
+}
